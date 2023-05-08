@@ -1,3 +1,5 @@
+build/
+.npm
 .DS_Store
 .idea
 .vscode
